@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Computers_Category",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "VSWzsrTFjkuKqhkngcw3Gg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/VSWzsrTFjkuKqhkngcw3Gg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/IncHMdbbjkK8n2YLFP0j_A",
+  "Created": "2026-05-06T12:36:57.4191411Z",
+  "Updated": "2026-05-06T12:37:09.9202206Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

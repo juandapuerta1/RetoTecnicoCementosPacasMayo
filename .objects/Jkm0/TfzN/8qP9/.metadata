@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Register_Screem",
+  "Type": "Screen",
+  "Id": "8qP9w-fRVEGw6rYBQLlkJQ",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/8qP9w-fRVEGw6rYBQLlkJQ",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/TfzNkv5e-kqlN_Yu9cysCQ",
+  "Created": "2026-05-06T01:12:38.2836011Z",
+  "Updated": "2026-05-06T01:12:55.9561543Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

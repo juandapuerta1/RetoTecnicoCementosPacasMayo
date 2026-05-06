@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X1xHv1LssEq5iv_lX2dkAA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demowebshop.tricentis.com/desktops" DesignTimeRectangle="726, 512, 125, 124" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Show details for Build your own cheap computer' tag='IMG' /&gt;" Guid="a01d6815-6889-4236-8884-e8414c87bbff" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Desktops' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="667d069143952f010dc86ba6da8d3d85.jpg" xmlns="">0I5q2Iz5SO0-4hqqwjhZFOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

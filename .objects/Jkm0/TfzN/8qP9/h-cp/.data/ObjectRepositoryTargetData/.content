@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RMBpOhCBDUCXDKYTYk8jCg" Reference="7xjcYg0_gkarAF9pMcBQSg/h-cpo9mfwUO3sVIi_pBoRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demowebshop.tricentis.com/registerresult/1" DesignTimeRectangle="12, 104, 1897, 950" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BODY' /&gt;" Guid="b8cc963a-2960-4032-a7cc-974d624d72e3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Register' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="57b11e55b2bd4bce844ee147d4d35a54.jpg" xmlns="">032qNR2cht066gcwlnMSI9A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

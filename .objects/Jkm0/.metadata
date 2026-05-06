@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Tricentis Web Shop",
+  "Description": "https://demowebshop.tricentis.com/",
+  "Type": "App",
+  "Id": "Jkm05WiQ0UOBOAFX5D3leA",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/Jkm05WiQ0UOBOAFX5D3leA",
+  "Created": "2026-05-06T00:15:08.7643259Z",
+  "Updated": "2026-05-06T00:15:08.7643259Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

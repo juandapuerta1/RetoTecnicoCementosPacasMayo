@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_Confirmation_Payment",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "v_faTzb5r0e5MzGsX2MXtg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/v_faTzb5r0e5MzGsX2MXtg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/Uiht6oyb3UqXJiLx4eXEvw",
+  "Created": "2026-05-06T13:49:35.3662614Z",
+  "Updated": "2026-05-06T13:49:44.3684285Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Select_Product",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "SNvArobJekSG2C5BFxOXYw",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/SNvArobJekSG2C5BFxOXYw",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/IncHMdbbjkK8n2YLFP0j_A",
+  "Created": "2026-05-06T12:39:04.1666451Z",
+  "Updated": "2026-05-06T12:39:12.5553435Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

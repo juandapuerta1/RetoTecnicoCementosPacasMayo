@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Continue_Register",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "hWgYEYtVK0aFEd4agw2MaA",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/hWgYEYtVK0aFEd4agw2MaA",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/8qP9w-fRVEGw6rYBQLlkJQ",
+  "Created": "2026-05-06T12:06:45.0022588Z",
+  "Updated": "2026-05-06T12:06:55.1909371Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

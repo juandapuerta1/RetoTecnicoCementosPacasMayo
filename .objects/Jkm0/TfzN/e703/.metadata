@@ -1,0 +1,15 @@
+﻿{
+  "Name": "TaskChekout",
+  "Type": "Screen",
+  "Id": "e703o5Jk8kGx8jlmcVk33Q",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/e703o5Jk8kGx8jlmcVk33Q",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/TfzNkv5e-kqlN_Yu9cysCQ",
+  "Created": "2026-05-06T12:49:08.1762781Z",
+  "Updated": "2026-05-06T12:49:10.9021868Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

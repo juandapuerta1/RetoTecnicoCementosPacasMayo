@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_Checkout",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "SQLOm_Rtl0CGgZ2-YcM4gg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/SQLOm_Rtl0CGgZ2-YcM4gg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/e703o5Jk8kGx8jlmcVk33Q",
+  "Created": "2026-05-06T12:49:23.3281263Z",
+  "Updated": "2026-05-06T12:49:27.5355005Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

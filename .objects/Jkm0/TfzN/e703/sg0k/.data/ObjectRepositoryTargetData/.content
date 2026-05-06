@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cnD_kMaWJkarABHJMzbX5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demowebshop.tricentis.com/onepagecheckout" DesignTimeRectangle="537, 725, 68, 22" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='billing-buttons-container' tag='INPUT' type='button' /&gt;" Guid="eb08220a-c191-447c-9c89-c62a6253c87f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Checkout' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0388d9f9dfe9b408b6c0cf4c85054056.jpg" xmlns="">0Ftzpy7DXmUSOeUW6_osfhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

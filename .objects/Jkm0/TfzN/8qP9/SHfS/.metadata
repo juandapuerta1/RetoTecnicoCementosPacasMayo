@@ -1,0 +1,13 @@
+﻿{
+  "Name": "PasswordConfirm",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "SHfSGSxKmkuEzBbopXMOXA",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/SHfSGSxKmkuEzBbopXMOXA",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/8qP9w-fRVEGw6rYBQLlkJQ",
+  "Created": "2026-05-06T01:13:06.0691415Z",
+  "Updated": "2026-05-06T01:13:06.0691415Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

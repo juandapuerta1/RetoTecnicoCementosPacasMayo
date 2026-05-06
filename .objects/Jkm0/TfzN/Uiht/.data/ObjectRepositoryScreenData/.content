@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="r1MQSlu4LkSchlY00W3MDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFaSURBVDhPpZI9SwNBEIZPLEV/gJ1/QOzCzkkKC7EIQfyIaWIj+ANE8KvTRgRBkFhYWIpoFbOzaiEp1MIiai2KoiEgFoKocO5sRi4kIbc5TNAHnmZn35dhWcf5LxrhlhC44o49b8o3Qp9GMaRRrBHCOyk4blkJ27Ui7yjSW7dJqCa/xF/FS56djvPTbrR8Vivg/fF2Qvi0QzVVP5c+Cuy93XMsPsbpxViwwIcknDUEK2oJnEqO8FQqwT6lh4PGAo2wbgfrvUgP8MpMgksv50y50cYCUu6EHWpmoIAPoz32hRA9QrgjhFOtYDVQ4EMIr4TwTBKQJGwZCXMkIamzIDjjdjM7bXYmgEG4Nugu2OctUfcXHg3CzW9q6S7beYczbqdRkCclcgbFfJgaYYMQiqTEpJ0vf+vqQ7GKdNlzH5Jis3Jnz545fDLYYRCuCCFrz6qQEsOEUAjd4C/8AIgPkYM96L+cAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Demo Web Shop. Checkout' /&gt;" Url="https://demowebshop.tricentis.com/onepagecheckout" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="9bf3a8eff1dda3c47889fea4e78db5a2.jpg" xmlns="">0rOB6sdiysUqn0s90sUIIZw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

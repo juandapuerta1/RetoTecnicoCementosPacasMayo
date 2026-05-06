@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Home_Page",
+  "Type": "Screen",
+  "Id": "rdorFDbDJU6awI1QDqskhg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/rdorFDbDJU6awI1QDqskhg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/TfzNkv5e-kqlN_Yu9cysCQ",
+  "Created": "2026-05-06T00:15:33.1855587Z",
+  "Updated": "2026-05-06T00:20:10.4454876Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

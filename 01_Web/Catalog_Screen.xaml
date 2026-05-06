@@ -1,0 +1,142 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Catalog_Screen" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="Catalog_Screen_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Web.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Catalog_Screen" sap:VirtualizedContainerService.HintSize="1176,621.6566666666666" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Never]" DisplayName="TaskAddToCart.xaml" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="452,439" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" OpenMode="[UiPath.UIAutomationNext.Enums.NAppOpenMode.Never]" ScopeGuid="db5c5119-e5e5-4c65-b739-9e082711c339" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,1021" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Computers_Category'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,194" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="db5c5119-e5e5-4c65-b739-9e082711c339" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="demowebshop.tricentis.com" ContentHash="yAdvN4y1e0-3QH9kjLYdQQ" DesignTimeRectangle="522, 420, 59, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Computers         ' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;a' tag='A' /&gt;" Guid="36302921-d5bd-4424-b5a9-865dd7d1b130" InformativeScreenshot="6d8922ff187a6f7c4983ef7b0ab3e995.jpg" Reference="7xjcYg0_gkarAF9pMcBQSg/VSWzsrTFjkuKqhkngcw3Gg" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Desktops_SubCategory'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,194" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="db5c5119-e5e5-4c65-b739-9e082711c339" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="demowebshop.tricentis.com/computers" ContentHash="JreTyyxGF0yrPzWBylRY-Q" DesignTimeRectangle="544, 442, 50, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Desktops         ' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;ul&amp;gt;li&amp;gt;a' tag='A' /&gt;" Guid="8a62b798-e9f2-4cd3-a49a-881998d983de" InformativeScreenshot="3b4e284897604ebb86c5e093ccff8c29.jpg" Reference="7xjcYg0_gkarAF9pMcBQSg/HSrKte42R0OlyT7oviG7XQ" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Computers' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Select_Product'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,194" sap2010:WorkflowViewState.IdRef="NClick_3" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="db5c5119-e5e5-4c65-b739-9e082711c339" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="demowebshop.tricentis.com/desktops" ContentHash="X1xHv1LssEq5iv_lX2dkAA" DesignTimeRectangle="726, 512, 125, 124" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Show details for Build your own cheap computer' tag='IMG' /&gt;" Guid="a01d6815-6889-4236-8884-e8414c87bbff" InformativeScreenshot="667d069143952f010dc86ba6da8d3d85.jpg" Reference="7xjcYg0_gkarAF9pMcBQSg/SNvArobJekSG2C5BFxOXYw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Desktops' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'AddToCard'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,194" sap2010:WorkflowViewState.IdRef="NClick_4" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="db5c5119-e5e5-4c65-b739-9e082711c339" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="demowebshop.tricentis.com/build-your-cheap-own-computer" ContentHash="CPxSgpDq1UqEG4BA5OB0XQ" DesignTimeRectangle="1168, 956, 103, 28" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='add-to-cart-button-72' tag='INPUT' /&gt;" Guid="89c2b5f0-d2b4-44e8-ad40-85de830436c5" InformativeScreenshot="23182f8952c151df110fc3d18b4a269f.jpg" Reference="7xjcYg0_gkarAF9pMcBQSg/f9oyvvisEEOI32rupVbmRw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Build your own cheap computer' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'GoToCard'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,185" sap2010:WorkflowViewState.IdRef="NClick_5" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="db5c5119-e5e5-4c65-b739-9e082711c339" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="demowebshop.tricentis.com/build-your-cheap-own-computer" ContentHash="CnXqwU0OE0GHmFPRKoN6BA" DesignTimeRectangle="1255, 192, 74, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='topcartlink' tag='SPAN' /&gt;" Guid="bed68a36-efa5-4763-bd37-8ebd48ed3f6f" InformativeScreenshot="8fe28d4374da40268643d4384bf52a28.jpg" Reference="7xjcYg0_gkarAF9pMcBQSg/apFg3GKGiEKqHMf8WQkiew" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Build your own cheap computer' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.OCREngine>
+        <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd1:Rectangle, x:String))">
+          <ActivityFunc.Argument>
+            <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+          </ActivityFunc.Argument>
+        </ActivityFunc>
+      </uix:NApplicationCard.OCREngine>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="-8, -8, 1936, 1048" BrowserType="Edge" ContentHash="m8v8DiVy9E6COiE7oJ1XtQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFaSURBVDhPpZI9SwNBEIZPLEV/gJ1/QOzCzkkKC7EIQfyIaWIj+ANE8KvTRgRBkFhYWIpoFbOzaiEp1MIiai2KoiEgFoKocO5sRi4kIbc5TNAHnmZn35dhWcf5LxrhlhC44o49b8o3Qp9GMaRRrBHCOyk4blkJ27Ui7yjSW7dJqCa/xF/FS56djvPTbrR8Vivg/fF2Qvi0QzVVP5c+Cuy93XMsPsbpxViwwIcknDUEK2oJnEqO8FQqwT6lh4PGAo2wbgfrvUgP8MpMgksv50y50cYCUu6EHWpmoIAPoz32hRA9QrgjhFOtYDVQ4EMIr4TwTBKQJGwZCXMkIamzIDjjdjM7bXYmgEG4Nugu2OctUfcXHg3CzW9q6S7beYczbqdRkCclcgbFfJgaYYMQiqTEpJ0vf+vqQ7GKdNlzH5Jis3Jnz545fDLYYRCuCCFrz6qQEsOEUAjd4C/8AIgPkYM96L+cAAAAAElFTkSuQmCC" InformativeScreenshot="4e4184c1a6ff55e59ff7ba5c02b32c9b.jpg" Reference="7xjcYg0_gkarAF9pMcBQSg/IncHMdbbjkK8n2YLFP0j_A" Selector="&lt;html app='msedge.exe' title='Demo Web Shop' /&gt;" Url="https://demowebshop.tricentis.com/" Version="V3">
+          <uix:TargetApp.Arguments>
+            <InArgument x:TypeArguments="x:String" />
+          </uix:TargetApp.Arguments>
+          <uix:TargetApp.WorkingDirectory>
+            <InArgument x:TypeArguments="x:String" />
+          </uix:TargetApp.WorkingDirectory>
+        </uix:TargetApp>
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>

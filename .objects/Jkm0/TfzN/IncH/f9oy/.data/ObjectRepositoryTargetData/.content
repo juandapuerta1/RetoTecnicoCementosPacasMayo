@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CPxSgpDq1UqEG4BA5OB0XQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demowebshop.tricentis.com/build-your-cheap-own-computer" DesignTimeRectangle="1168, 956, 103, 28" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='add-to-cart-button-72' tag='INPUT' /&gt;" Guid="89c2b5f0-d2b4-44e8-ad40-85de830436c5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Demo Web Shop. Build your own cheap computer' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="23182f8952c151df110fc3d18b4a269f.jpg" xmlns="">0-kLZkmuY_EWxkhvwXvyzOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "SelectorGender",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "OsdMGsJ7fESNf81IA5jvKg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/OsdMGsJ7fESNf81IA5jvKg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/8qP9w-fRVEGw6rYBQLlkJQ",
+  "Created": "2026-05-06T01:13:09.1143067Z",
+  "Updated": "2026-05-06T01:13:09.1143067Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

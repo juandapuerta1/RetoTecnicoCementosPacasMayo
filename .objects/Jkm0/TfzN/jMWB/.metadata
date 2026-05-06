@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Confimation_Order",
+  "Type": "Screen",
+  "Id": "jMWBU8vkREuz_mcNhAm67w",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/jMWBU8vkREuz_mcNhAm67w",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/TfzNkv5e-kqlN_Yu9cysCQ",
+  "Created": "2026-05-06T13:51:03.3626071Z",
+  "Updated": "2026-05-06T13:51:06.134151Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

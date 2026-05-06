@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Validate_Order",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "cZCbaeYDokekNPPdP9I_vQ",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/cZCbaeYDokekNPPdP9I_vQ",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/jMWBU8vkREuz_mcNhAm67w",
+  "Created": "2026-05-06T13:53:56.7540706Z",
+  "Updated": "2026-05-06T13:54:02.6566178Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

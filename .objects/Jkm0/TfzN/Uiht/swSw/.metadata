@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_FinishPayment",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "swSwwLkunkSjtjhjfZsX_g",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/swSwwLkunkSjtjhjfZsX_g",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/Uiht6oyb3UqXJiLx4eXEvw",
+  "Created": "2026-05-06T13:50:26.6911115Z",
+  "Updated": "2026-05-06T13:50:34.0056463Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

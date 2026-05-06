@@ -1,0 +1,13 @@
+﻿{
+  "Name": "BtnRegister",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "_-k_SNpt_Uy4xtmq19w38Q",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/_-k_SNpt_Uy4xtmq19w38Q",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/8qP9w-fRVEGw6rYBQLlkJQ",
+  "Created": "2026-05-06T01:12:59.5083022Z",
+  "Updated": "2026-05-06T01:12:59.5083022Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Demo Web Shop. Register",
+  "Type": "Screen",
+  "Id": "9AIdodia2kmkqeJc_LFEfg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/9AIdodia2kmkqeJc_LFEfg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/TfzNkv5e-kqlN_Yu9cysCQ",
+  "Created": "2026-05-06T01:09:56.5494438Z",
+  "Updated": "2026-05-06T01:09:56.5494438Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

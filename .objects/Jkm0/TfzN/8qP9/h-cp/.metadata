@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Page_Confirmation_Register",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "h-cpo9mfwUO3sVIi_pBoRQ",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/h-cpo9mfwUO3sVIi_pBoRQ",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/8qP9w-fRVEGw6rYBQLlkJQ",
+  "Created": "2026-05-06T12:11:30.5628772Z",
+  "Updated": "2026-05-06T12:11:38.1656722Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

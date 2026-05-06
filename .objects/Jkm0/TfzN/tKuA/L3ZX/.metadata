@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Email_Imput",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "L3ZXLlN01kmUPwCA6f1zbw",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/L3ZXLlN01kmUPwCA6f1zbw",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/tKuASezLp0yVyGjNkf_bSA",
+  "Created": "2026-05-06T01:58:33.7610431Z",
+  "Updated": "2026-05-06T01:59:00.1327975Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

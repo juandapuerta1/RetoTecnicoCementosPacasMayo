@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_LoginConfirm",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "DSlLEKYf5E6k3R9HXJtDvg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/DSlLEKYf5E6k3R9HXJtDvg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/tKuASezLp0yVyGjNkf_bSA",
+  "Created": "2026-05-06T01:59:27.0543146Z",
+  "Updated": "2026-05-06T01:59:39.5261596Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

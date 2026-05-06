@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Agree_terms",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "F9Iv5HwaDkqjNupd_33rag",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/F9Iv5HwaDkqjNupd_33rag",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/e703o5Jk8kGx8jlmcVk33Q",
+  "Created": "2026-05-06T12:54:15.6788267Z",
+  "Updated": "2026-05-06T12:54:29.5237692Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

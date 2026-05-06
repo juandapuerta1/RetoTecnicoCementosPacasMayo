@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Your registration compl…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Iy6s44LiW0yEGw-uIQUyLg",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/Iy6s44LiW0yEGw-uIQUyLg",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/9AIdodia2kmkqeJc_LFEfg",
+  "Created": "2026-05-06T01:44:10.900044Z",
+  "Updated": "2026-05-06T01:44:10.900044Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

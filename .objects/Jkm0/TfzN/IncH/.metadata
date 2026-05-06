@@ -1,0 +1,15 @@
+﻿{
+  "Name": "TaskAddToCart.xaml",
+  "Type": "Screen",
+  "Id": "IncHMdbbjkK8n2YLFP0j_A",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/IncHMdbbjkK8n2YLFP0j_A",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/TfzNkv5e-kqlN_Yu9cysCQ",
+  "Created": "2026-05-06T12:36:32.147172Z",
+  "Updated": "2026-05-06T12:36:36.8321181Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

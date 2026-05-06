@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Password_Imput",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "gmPAj6Dw40CYEdgnNQ-DOA",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/gmPAj6Dw40CYEdgnNQ-DOA",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/tKuASezLp0yVyGjNkf_bSA",
+  "Created": "2026-05-06T01:59:09.0953994Z",
+  "Updated": "2026-05-06T01:59:14.8168387Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

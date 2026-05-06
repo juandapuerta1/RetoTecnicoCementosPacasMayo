@@ -1,0 +1,16 @@
+﻿{
+  "Name": "GoToCard",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "apFg3GKGiEKqHMf8WQkiew",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/apFg3GKGiEKqHMf8WQkiew",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/IncHMdbbjkK8n2YLFP0j_A",
+  "Created": "2026-05-06T12:40:14.94112Z",
+  "Updated": "2026-05-06T12:40:19.5440092Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "PasswordOne",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "bdGgsAczL0Cs2kUIY-pXkw",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/bdGgsAczL0Cs2kUIY-pXkw",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/8qP9w-fRVEGw6rYBQLlkJQ",
+  "Created": "2026-05-06T01:13:07.4140283Z",
+  "Updated": "2026-05-06T01:13:07.4140283Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

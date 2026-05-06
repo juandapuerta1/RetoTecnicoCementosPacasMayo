@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Form_ZipCode",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "17VzS-TzzE265QhlGZiPVw",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/17VzS-TzzE265QhlGZiPVw",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/e703o5Jk8kGx8jlmcVk33Q",
+  "Created": "2026-05-06T12:56:56.987907Z",
+  "Updated": "2026-05-06T12:57:02.1550256Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Payment_Method",
+  "Type": "Screen",
+  "Id": "Uiht6oyb3UqXJiLx4eXEvw",
+  "Reference": "7xjcYg0_gkarAF9pMcBQSg/Uiht6oyb3UqXJiLx4eXEvw",
+  "ParentRef": "7xjcYg0_gkarAF9pMcBQSg/TfzNkv5e-kqlN_Yu9cysCQ",
+  "Created": "2026-05-06T13:45:19.892634Z",
+  "Updated": "2026-05-06T13:45:22.4080663Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

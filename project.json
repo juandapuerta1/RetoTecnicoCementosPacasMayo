@@ -4,7 +4,10 @@
   "description": "RetoTecnicoCementosPacasMayo",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[26.2.4]"
+    "UiPath.System.Activities": "[26.2.4]",
+    "UiPath.Testing.Activities": "[25.10.2]",
+    "UiPath.UIAutomation.Activities": "[25.10.31]",
+    "UiPath.WebAPI.Activities": "[2.4.0]"
   },
   "webServices": [],
   "entitiesStores": [],
