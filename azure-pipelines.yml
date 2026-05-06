@@ -1,0 +1,35 @@
+﻿trigger:
+- main
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+# 1. Instalar herramientas de UiPath en el agente de Azure
+- task: UiPathInstallPlatform@2
+  displayName: 'Install UiPath Tooling'
+
+# 2. Empaquetar el proyecto (Build)
+- task: UiPathPack@2
+  displayName: 'Build & Pack Project'
+  inputs:
+    projectJsonPath: '$(Build.SourcesDirectory)/project.json'
+    outputPath: '$(Build.ArtifactStagingDirectory)'
+    outputType: 'Process'
+    version: '1.0.$(Build.BuildId)'
+
+# 3. Ejecutar las pruebas (Aquí es donde corre tu Main_API y Main_Web)
+- task: UiPathTest@2
+  displayName: 'Run Automation Tests'
+  inputs:
+    testSubscription: 'UiPath-Orchestrator-Conn'
+    testSet: 'RetoPacasmayo_Tests'
+    folderName: 'Default'
+
+# 4. Publicar los artefactos finales
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish Artifacts'
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
